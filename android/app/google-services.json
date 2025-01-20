@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "110836164357",
+    "firebase_url": "https://astro-b1969-default-rtdb.firebaseio.com",
+    "project_id": "astro-b1969",
+    "storage_bucket": "astro-b1969.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110836164357:android:7c3000a806d259ebd8396c",
+        "android_client_info": {
+          "package_name": "live.partner.onetowthreeastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv55Wp4aqfL6EC7UhXmqfM_Ksw1F_ZK9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110836164357:android:2e6ea7bd94605bd2d8396c",
+        "android_client_info": {
+          "package_name": "live.user.onetowthreeastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv55Wp4aqfL6EC7UhXmqfM_Ksw1F_ZK9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
